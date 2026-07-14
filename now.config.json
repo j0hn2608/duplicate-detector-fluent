@@ -1,0 +1,12 @@
+{
+    "scope": "x_916323_duplicate",
+    "scopeId": "51c7ded971aa4b1e98765d5c3a9d16cf",
+    "name": "Duplicate Detector",
+    "accessControls": {
+        "runtimeAccessTracking": "permissive"
+    },
+    "licensing": {
+        "enforceLicense": "none"
+    },
+    "description": "Finds duplicate records on any table and opens them in a dedicated workspace."
+}
